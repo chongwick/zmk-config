@@ -12,7 +12,7 @@
         };
 
         fdtab {
-            bindings = <&kp TAB>;
+            bindings = <&kp ESCAPE>;
             key-positions = <15 16>;
         };
     };
